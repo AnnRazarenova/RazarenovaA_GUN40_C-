@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ann\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "D:\\Курсы Unity\\RazarenovaA_GUN40_C\\Calculator\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Ann\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "D:\\Курсы Unity\\RazarenovaA_GUN40_C\\Calculator\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Ann\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ann\\source\\repos\\Calculator\\Calculator\\obj\\",
+      "outputPath": "D:\\Курсы Unity\\RazarenovaA_GUN40_C\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Программы1\\Visual\\Shared\\NuGetPackages"
