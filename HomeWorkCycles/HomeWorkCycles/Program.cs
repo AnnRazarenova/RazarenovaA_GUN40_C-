@@ -68,9 +68,5 @@
             } while (password != passwordInput);
             Console.WriteLine("Password is correct");
         }
-
     }
-
-
-
 }
