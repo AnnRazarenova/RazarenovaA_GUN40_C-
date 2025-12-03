@@ -1,0 +1,15 @@
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\bin\Debug\net8.0\HomeWorkClasses.exe
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\bin\Debug\net8.0\HomeWorkClasses.deps.json
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\bin\Debug\net8.0\HomeWorkClasses.runtimeconfig.json
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\bin\Debug\net8.0\HomeWorkClasses.dll
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\bin\Debug\net8.0\HomeWorkClasses.pdb
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\obj\Debug\net8.0\HomeWorkClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\obj\Debug\net8.0\HomeWorkClasses.AssemblyInfoInputs.cache
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\obj\Debug\net8.0\HomeWorkClasses.AssemblyInfo.cs
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\obj\Debug\net8.0\HomeWorkClasses.csproj.CoreCompileInputs.cache
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\obj\Debug\net8.0\HomeWorkClasses.sourcelink.json
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\obj\Debug\net8.0\HomeWorkClasses.dll
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\obj\Debug\net8.0\refint\HomeWorkClasses.dll
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\obj\Debug\net8.0\HomeWorkClasses.pdb
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\obj\Debug\net8.0\HomeWorkClasses.genruntimeconfig.cache
+D:\Курсы Unity\RazarenovaA_GUN40_C\HomeWorkClasses\HomeWorkClasses\obj\Debug\net8.0\ref\HomeWorkClasses.dll
