@@ -2,7 +2,6 @@
 {
     internal class Unit
     {
-
         public string Name { get; }
 
         private float health;
@@ -69,24 +68,91 @@
                 Console.WriteLine();
             }
 
-            //Console.WriteLine("Игроку нанесён урон в 50 единиц");
-            //Console.WriteLine("Игрок жив: " + unit.SetDamage(50));
-            //Console.WriteLine("Здоровье игрока: " + unit.Health);
-            //Console.WriteLine("Здоровье игрока с бронёй: " + unit.GetRealHealth());
-            //Console.WriteLine();
+            Wepon wepon = new Wepon("Gun", 10, 50);
 
-            //Console.WriteLine("Игроку нанесён урон в 50 единиц");
-            //Console.WriteLine("Игрок жив: " + unit.SetDamage(50));
-            //Console.WriteLine("Здоровье игрока: " + unit.Health);
-            //Console.WriteLine("Здоровье игрока с бронёй: " + unit.GetRealHealth());
-            //Console.WriteLine();
+            Console.WriteLine("Название оружия: " + wepon.Name);
+            Console.WriteLine("Минимальный урон оружия: " + wepon.MinDamage);
+            Console.WriteLine("Максимальный урон оружия: " + wepon.MaxDamage);
+            Console.WriteLine("Прочность оружия: " + wepon.Durability);
+            Console.WriteLine("Средний урон оружия: " + wepon.GetDamage());
 
-            //Console.WriteLine("Игроку нанесён урон в 50 единиц");
-            //Console.WriteLine("Игрок жив: " + unit.SetDamage(50));
-            //Console.WriteLine("Здоровье игрока: " + unit.Health);
-            //Console.WriteLine("Здоровье игрока с бронёй: " + unit.GetRealHealth());
-            //Console.WriteLine();
+
 
         }
     }
+
+    internal class Wepon
+    {
+        public string Name { get; }
+
+        public int MinDamage {  get; private set; }
+
+        public int MaxDamage { get; private set; }
+
+        public float Durability { get; }
+
+        public Wepon() : this("Unkown wepon", 1, 10)
+        {
+
+        }
+
+        public Wepon(string name, int minDamage, int maxDamage)
+        {
+            Name = name;
+            MinDamage = minDamage;
+            MaxDamage = maxDamage;
+            Durability = 1f;
+            
+            SetDamageParams (MinDamage, MaxDamage);
+        }
+
+        public void SetDamageParams(int minDamage, int maxDamage)
+        {
+            int f = 1;
+            if (minDamage > maxDamage)
+            {
+                int swap;
+                swap = minDamage;
+                minDamage = maxDamage;
+                maxDamage = swap;
+
+                Console.WriteLine("Некорректные входные данные у оружия: " + Name);
+            }
+            else
+            {
+                if (minDamage < 1)
+                {
+                    minDamage = f;
+                    Console.WriteLine($"Форсированная установка минимального значения у оружия: {Name}");
+                }
+                if (maxDamage <= 1)
+                {
+                    maxDamage = 10;
+                }
+            }
+
+            MinDamage = minDamage;
+            MaxDamage = maxDamage;
+
+        }
+
+        public int GetDamage()
+        {
+            return (MaxDamage +  MinDamage)/2;
+        }
+
+        //static void Main(string[] args)
+        //{
+        //    Wepon wepon = new Wepon("Gun", 10, 50);
+
+        //    Console.WriteLine("Название оружия: " + wepon.Name);
+        //    Console.WriteLine("Минимальный урон оружия: " + wepon.MinDamage);
+        //    Console.WriteLine("Максимальный урон оружия: " + wepon.MaxDamage);
+        //    Console.WriteLine("Прочность оружия: " + wepon.Durability);
+        //    Console.WriteLine("Средний урон оружия: " + wepon.GetDamage());
+
+
+        //}
+    }
+
 }
