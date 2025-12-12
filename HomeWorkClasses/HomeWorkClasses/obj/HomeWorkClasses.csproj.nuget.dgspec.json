@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Курсы Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\HomeWorkClasses.csproj": {}
+    "D:\\UnityProjects\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\HomeWorkClasses.csproj": {}
   },
   "projects": {
-    "D:\\Курсы Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\HomeWorkClasses.csproj": {
+    "D:\\UnityProjects\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\HomeWorkClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Курсы Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\HomeWorkClasses.csproj",
+        "projectUniqueName": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\HomeWorkClasses.csproj",
         "projectName": "HomeWorkClasses",
-        "projectPath": "D:\\Курсы Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\HomeWorkClasses.csproj",
-        "packagesPath": "C:\\Users\\Ann\\.nuget\\packages\\",
-        "outputPath": "D:\\Курсы Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\obj\\",
+        "projectPath": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\HomeWorkClasses.csproj",
+        "packagesPath": "C:\\Users\\Аня\\.nuget\\packages\\",
+        "outputPath": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Программы1\\Visual\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ann\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Аня\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
