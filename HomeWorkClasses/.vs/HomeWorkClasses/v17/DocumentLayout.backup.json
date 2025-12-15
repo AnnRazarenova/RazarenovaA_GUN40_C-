@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\",
+  "WorkspaceRootPath": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\HomeWorkClasses\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\homeworkclasses\\homeworkclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\homeworkclasses\\homeworkclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|solutionrelative:homeworkclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,17 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Program.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Program.cs",
               "RelativeDocumentMoniker": "HomeWorkClasses\\Program.cs",
+<<<<<<< HEAD
               "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Program.cs",
               "RelativeToolTip": "HomeWorkClasses\\Program.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAADwv4UAAAAiAAAAAAAAAA==",
+=======
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Program.cs*",
+              "RelativeToolTip": "HomeWorkClasses\\Program.cs*",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAYwM4AAABAAAAAAAAAAA==",
+>>>>>>> 9c9f46b15ab3e27c6e67cf24f3fc31854279bfae
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T06:32:35.963Z",
               "EditorCaption": ""
