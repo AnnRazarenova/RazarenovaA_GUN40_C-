@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\HomeWorkClasses\\",
+  "WorkspaceRootPath": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\homeworkclasses\\homeworkclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\homeworkclasses\\homeworkclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|solutionrelative:homeworkclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\homeworkclasses\\homeworkclasses\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|solutionrelative:homeworkclasses\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\homeworkclasses\\homeworkclasses\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|solutionrelative:homeworkclasses\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\homeworkclasses\\homeworkclasses\\interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|solutionrelative:homeworkclasses\\interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\homeworkclasses\\homeworkclasses\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|solutionrelative:homeworkclasses\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\homeworkclasses\\homeworkclasses\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A7576-EE5F-46D5-914E-48FA38830F6C}|HomeWorkClasses\\HomeWorkClasses.csproj|solutionrelative:homeworkclasses\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dungeon.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Dungeon.cs",
+              "RelativeDocumentMoniker": "HomeWorkClasses\\Dungeon.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Dungeon.cs",
+              "RelativeToolTip": "HomeWorkClasses\\Dungeon.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:31:14.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Room.cs",
+              "RelativeDocumentMoniker": "HomeWorkClasses\\Room.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Room.cs",
+              "RelativeToolTip": "HomeWorkClasses\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:30:33.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interval.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Interval.cs",
+              "RelativeDocumentMoniker": "HomeWorkClasses\\Interval.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Interval.cs",
+              "RelativeToolTip": "HomeWorkClasses\\Interval.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:30:03.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Weapon.cs",
+              "RelativeDocumentMoniker": "HomeWorkClasses\\Weapon.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Weapon.cs",
+              "RelativeToolTip": "HomeWorkClasses\\Weapon.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:29:29.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Unit.cs",
+              "RelativeDocumentMoniker": "HomeWorkClasses\\Unit.cs",
+              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Unit.cs",
+              "RelativeToolTip": "HomeWorkClasses\\Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:28:48.558Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Program.cs",
+              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Program.cs",
               "RelativeDocumentMoniker": "HomeWorkClasses\\Program.cs",
-<<<<<<< HEAD
               "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Program.cs",
               "RelativeToolTip": "HomeWorkClasses\\Program.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAADwv4UAAAAiAAAAAAAAAA==",
-=======
-              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\HomeWorkClasses\\HomeWorkClasses\\Program.cs*",
-              "RelativeToolTip": "HomeWorkClasses\\Program.cs*",
-              "ViewState": "AgIAAMIAAAAAAAAAAAAYwM4AAABAAAAAAAAAAA==",
->>>>>>> 9c9f46b15ab3e27c6e67cf24f3fc31854279bfae
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T06:32:35.963Z",
               "EditorCaption": ""
