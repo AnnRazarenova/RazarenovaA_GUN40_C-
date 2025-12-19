@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\Collections\\",
+  "WorkspaceRootPath": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\Collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\collections\\collections\\taskthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\collections\\collections\\taskthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|solutionrelative:collections\\taskthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\collections\\collections\\tasktwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\collections\\collections\\tasktwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|solutionrelative:collections\\tasktwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\collections\\collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|solutionrelative:collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\collections\\collections\\taskone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|solutionrelative:collections\\taskone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\collections\\collections\\taskone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|solutionrelative:collections\\taskone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\collections\\collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D456D9-58A1-4F24-A990-F68AC1FC67EE}|Collections\\Collections.csproj|solutionrelative:collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,13 +30,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TaskOne.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\Collections\\Collections\\TaskOne.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\Collections\\Collections\\TaskOne.cs",
               "RelativeDocumentMoniker": "Collections\\TaskOne.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\Collections\\Collections\\TaskOne.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\Collections\\Collections\\TaskOne.cs",
               "RelativeToolTip": "Collections\\TaskOne.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T12:22:51.494Z",
               "EditorCaption": ""
@@ -45,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TaskTwo.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\Collections\\Collections\\TaskTwo.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\Collections\\Collections\\TaskTwo.cs",
               "RelativeDocumentMoniker": "Collections\\TaskTwo.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\Collections\\Collections\\TaskTwo.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\Collections\\Collections\\TaskTwo.cs",
               "RelativeToolTip": "Collections\\TaskTwo.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowCsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswDwAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T12:23:08.426Z",
               "EditorCaption": ""
@@ -58,27 +58,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TaskThree.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\Collections\\Collections\\TaskThree.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\Collections\\Collections\\TaskThree.cs",
               "RelativeDocumentMoniker": "Collections\\TaskThree.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\Collections\\Collections\\TaskThree.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\Collections\\Collections\\TaskThree.cs",
               "RelativeToolTip": "Collections\\TaskThree.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T12:26:11.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\Collections\\Collections\\Program.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\Collections\\Collections\\Program.cs",
               "RelativeDocumentMoniker": "Collections\\Program.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\Collections\\Collections\\Program.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\Collections\\Collections\\Program.cs",
               "RelativeToolTip": "Collections\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAwwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T12:20:19.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T12:20:19.785Z"
             }
           ]
         }

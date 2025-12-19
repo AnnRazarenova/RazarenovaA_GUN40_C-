@@ -77,6 +77,8 @@ namespace Collections
                 list.Push(Console.ReadLine());
             }
 
+            Console.WriteLine();
+
             Console.WriteLine("Forward:");
             WriteNext(list.head);
 

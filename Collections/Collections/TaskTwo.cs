@@ -15,7 +15,7 @@ namespace Collections
 
             foreach (var (key, val) in dictionary)
             {
-                Console.WriteLine($"Имя студента: {key}  средняя оценка: {val}");
+                Console.WriteLine($"Student's name: {key}  Average grade: {val}");
             }
 
             Console.WriteLine();
@@ -37,7 +37,7 @@ namespace Collections
 
             foreach (var (key, val) in dictionary)
             {
-                Console.WriteLine($"Имя студента: {key}  средняя оценка: {val}");
+                Console.WriteLine($"Student's name: {key}  Average grade: {val}");
             }
 
 
@@ -46,17 +46,19 @@ namespace Collections
             Console.WriteLine("Enter student's name to find them:");
 
             
-            string studenFindtName = Console.ReadLine(); ;
+            string studenFindtName = Console.ReadLine();
 
             bool findStudent = dictionary.ContainsKey(studenFindtName);
 
             while (!findStudent)
             {
                 Console.WriteLine("Student not found");
-                Console.WriteLine("Enter student's name to find them:");    
+                Console.WriteLine("Enter student's name to find them:");
+                studenFindtName = Console.ReadLine();
+                findStudent = dictionary.ContainsKey(studenFindtName);
             }
             
-            Console.WriteLine(dictionary[studenFindtName]);
+            Console.WriteLine("We find student: " + studenFindtName + " Average grade: " + dictionary[studenFindtName]);
         }
 
         public void CreateDictionary()
