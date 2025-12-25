@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\units\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:units\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\items\\economicitems\\economicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\economicitems\\economicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\utils\\unitfactorydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,12 +114,11 @@
               "RelativeToolTip": "Game\\GameLoop.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:40.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Goblin.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Goblin.cs",
               "RelativeDocumentMoniker": "Units\\Goblin.cs",
@@ -127,12 +126,11 @@
               "RelativeToolTip": "Units\\Goblin.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAA1wAwAAACLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:40.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Unit.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Unit.cs",
               "RelativeDocumentMoniker": "Units\\Unit.cs",
@@ -140,12 +138,11 @@
               "RelativeToolTip": "Units\\Unit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:40.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EconomicItem.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\EconomicItem.cs",
               "RelativeDocumentMoniker": "Items\\EconomicItems\\EconomicItem.cs",
@@ -153,8 +150,7 @@
               "RelativeToolTip": "Items\\EconomicItems\\EconomicItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:40.011Z"
             },
             {
               "$type": "Document",
@@ -166,18 +162,17 @@
               "RelativeToolTip": "Dungeon\\DungeonRoom.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:40.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Item.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\Item.cs",
               "RelativeDocumentMoniker": "Items\\Item.cs",
               "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\Item.cs",
               "RelativeToolTip": "Items\\Item.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAYAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBAAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T11:10:40.026Z",
               "EditorCaption": ""
@@ -192,8 +187,7 @@
               "RelativeToolTip": "Combat\\CombatManager.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:40.001Z"
             },
             {
               "$type": "Document",
@@ -205,12 +199,11 @@
               "RelativeToolTip": "Utils\\DungeonBuilder.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:39.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:39.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameConstants.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\GameConstants.cs",
               "RelativeDocumentMoniker": "Utils\\GameConstants.cs",
@@ -218,8 +211,7 @@
               "RelativeToolTip": "Utils\\GameConstants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:40.019Z"
             },
             {
               "$type": "Document",
@@ -231,12 +223,11 @@
               "RelativeToolTip": "Utils\\UnitFactoryDemo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:39.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:39.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Armour.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Armour.cs",
               "RelativeDocumentMoniker": "Items\\EquipItems\\Armour.cs",
@@ -244,12 +235,11 @@
               "RelativeToolTip": "Items\\EquipItems\\Armour.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:40.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EquipItem.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\EquipItem.cs",
               "RelativeDocumentMoniker": "Items\\EquipItems\\EquipItem.cs",
@@ -257,12 +247,11 @@
               "RelativeToolTip": "Items\\EquipItems\\EquipItem.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:40.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Player.cs",
               "RelativeDocumentMoniker": "Units\\Player.cs",
@@ -283,8 +272,7 @@
               "RelativeToolTip": "Dungeon\\Direction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:39.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:39.984Z"
             },
             {
               "$type": "Document",
@@ -296,8 +284,7 @@
               "RelativeToolTip": "Units\\Inventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:40.009Z"
             },
             {
               "$type": "Document",
@@ -309,8 +296,7 @@
               "RelativeToolTip": "Items\\EconomicItems\\HealthPotion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:40.023Z"
             },
             {
               "$type": "Document",
@@ -322,8 +308,7 @@
               "RelativeToolTip": "Items\\EconomicItems\\Gold.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:40.021Z"
             },
             {
               "$type": "Document",
@@ -335,8 +320,7 @@
               "RelativeToolTip": "Items\\EquipItems\\Weapon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:10:40.016Z"
             },
             {
               "$type": "Document",

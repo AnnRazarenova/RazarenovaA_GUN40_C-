@@ -14,7 +14,7 @@
             Amount = 1;
         }
 
-        public bool TryStack(Item item) //Метод для проверки и стаканья предметов
+        public bool TryStack(Item item) //Метод для проверки и стаканья предметов 
         {
             if (!Stackable)
             {
