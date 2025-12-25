@@ -7,13 +7,13 @@ namespace GamePrototype.Units
 {
     public sealed class Player : Unit
     {
-        private readonly Dictionary<EquipSlot, EquipItem> _equipment = new();
+        private readonly Dictionary<EquipSlot, EquipItem> _equipment = new(); //Словарь, какие предметы есть
 
         public Player(string name, uint health, uint maxHealth, uint baseDamage) : base(name, health, maxHealth, baseDamage)
         {            
         }
 
-        public override uint GetUnitDamage()
+        public override uint GetUnitDamage() //Метод, переопределён, возвращает урон, базовый + оружие или базовый
         {
             if (_equipment.TryGetValue(EquipSlot.Weapon, out var item) && item is Weapon weapon) 
             {
@@ -22,7 +22,7 @@ namespace GamePrototype.Units
             return BaseDamage;
         }
 
-        public override void HandleCombatComplete()
+        public override void HandleCombatComplete()//Метод, прееопределяется, если вышли из боя(победа), используем например зелье на хп
         {
             var items = Inventory.Items;
             for (int i = 0; i < items.Count; i++) 
