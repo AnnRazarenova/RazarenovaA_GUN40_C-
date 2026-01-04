@@ -12,12 +12,21 @@ namespace GamePrototype.Items.EquipItems
 
         public abstract EquipSlot Slot { get; } //Св-во, абстрактное
 
-        protected EquipItem(uint maxDurability, string name) : base(name) => _maxDurability = maxDurability; //Конструктор
+        protected EquipItem(uint maxDurability, string name) : base(name)
+        { 
+            _maxDurability = maxDurability;
+            Durability = _maxDurability;
+        } //Конструктор
 
-        public void ReduceDurability(uint delta) => _durability -= delta; //Метод
+
+        public void ReduceDurability(uint delta) =>
+            _durability = _durability - delta > 0
+            ? _durability - delta //Положительное условие "?"
+            : 0;//Отрицательное условие ":"
+             
 
         public void Repair(uint delta) => //Метод для починки предмета(брони, оружия(?))
-            _durability += _durability + delta > _maxDurability 
+            _durability = _durability + delta > _maxDurability 
             ? _maxDurability //Положительное условие "?"
             : _durability + delta; //Отрицательное условие ":"
     }

@@ -2,6 +2,8 @@
 using GamePrototype.Dungeon;
 using GamePrototype.Units;
 using GamePrototype.Utils;
+using System;
+using System.Numerics;
 
 namespace GamePrototype.Game
 {
@@ -23,9 +25,36 @@ namespace GamePrototype.Game
         private void Initialize()
         {
             Console.WriteLine("Welcome, player!");
-            _dungeon = DungeonBuilder.BuildDungeon();
-            Console.WriteLine("Enter your name");
-            _player = UnitFactoryDemo.CreatePlayer(Console.ReadLine());
+            Console.WriteLine($"Choose your difficulty: " +
+                $"{DifficultyLevel.Easy} = {(int)DifficultyLevel.Easy} or" +
+                $" {DifficultyLevel.Hard} = {(int)DifficultyLevel.Hard}");
+            
+            if (Enum.TryParse<DifficultyLevel>(Console.ReadLine(), out var difficulty))
+            {
+                switch(difficulty)
+                {
+                    case DifficultyLevel.Easy:
+                        Console.WriteLine($"You selected: {difficulty} mode");
+                        _dungeon = DungeonBuilderEasyLevel.BuildEasyDungeon();
+                        Console.WriteLine("Enter your name");
+                        _player = UnitFactoryDemoEasyLevel.CreateEasyPlayer(Console.ReadLine());
+                        break;
+
+                    case DifficultyLevel:
+                        Console.WriteLine($"You selected: {difficulty} mode");
+                        _dungeon = DungeonBuilderHardLevel.BuildHardDungeon();
+                        Console.WriteLine("Enter your name");
+                        _player = UnitFactoryDemoHardLevel.CreateHardPlayer(Console.ReadLine());
+                        break;
+                    
+                    default:
+                        Console.WriteLine($"Invalid selection. Defaulting to Easy mode.");
+                        _dungeon = DungeonBuilderEasyLevel.BuildEasyDungeon();
+                        Console.WriteLine("Enter your name");
+                        _player = UnitFactoryDemoEasyLevel.CreateEasyPlayer(Console.ReadLine());
+                        break;
+                }
+            }
             Console.WriteLine($"Hello {_player.Name}");
         }
 
@@ -94,8 +123,6 @@ namespace GamePrototype.Game
                 Console.Write($"{room.Key} - {(int) room.Key}\t");
             }
         }
-
-        
         #endregion
     }
 }

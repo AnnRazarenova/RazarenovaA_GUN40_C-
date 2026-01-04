@@ -58,6 +58,21 @@ namespace GamePrototype.Units
                 Console.WriteLine($"Inventory of {Name} is full");
             }
         }
+        
+        public virtual void RemoveItemFromInventory(Item item) //Метод, виртуальный, добавляем предмет в инвентарь
+        {
+            if (!Inventory.TryRemove(item))
+            {
+                Console.WriteLine($"Inventory of {Name} is empty");
+            }
+        }
+        //public virtual void ChangeEquipItemInInventory(Item item1, Item item2) //Метод, виртуальный, добавляем предмет в инвентарь
+        //{
+        //    if (!Inventory.TryChange(item1, item2))
+        //    {
+        //        Console.WriteLine($"Inventory of {Name} is not changed");
+        //    }
+        //}
 
         public void AddItemsFromUnitToInventory(Unit unit)
         {

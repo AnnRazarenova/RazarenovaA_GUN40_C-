@@ -31,5 +31,15 @@ namespace GamePrototype.Units
             return true;
         }
 
+        //public bool TryChange(Item item1, Item item2)
+        //{
+        //    if (_items.Count == 0 || !_items.Contains(item1))
+        //    {
+        //        return false;
+        //    }
+        //    _items.Remove(item1);
+        //    _items.Add(item2);
+        //    return true;
+        //}
     }
 }

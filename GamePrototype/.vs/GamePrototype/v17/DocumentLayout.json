@@ -1,94 +1,130 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\",
+  "WorkspaceRootPath": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\utils\\dungeonbuilderhardlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\dungeonbuilderhardlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\units\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\utils\\dungeonbuildereasylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\dungeonbuildereasylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\units\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:units\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\units\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:units\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\utils\\unitfactorydemoeasylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\unitfactorydemoeasylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\utils\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\items\\equipitems\\equipitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\equipitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\items\\equipitems\\armour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\armour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\units\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:units\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\items\\economicitems\\economicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\economicitems\\economicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\utils\\unitfactorydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\utils\\unitfactorydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\unitfactorydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\utils\\dungeonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\dungeonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\utils\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\game\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:game\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\combat\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:combat\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\dungeon\\dungeonroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:dungeon\\dungeonroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\dungeon\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:dungeon\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\units\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:units\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\items\\economicitems\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\economicitems\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\items\\economicitems\\gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\economicitems\\gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\items\\equipitems\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\combat\\rockpaperscissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:combat\\rockpaperscissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\utils\\equipslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\utils\\equipslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\equipslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\gameprototype\\items\\economicitems\\grindstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\items\\equipitems\\weapon\\weaponbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\weapon\\weaponbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\items\\equipitems\\weapon\\rangeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\weapon\\rangeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\items\\equipitems\\weapon\\meleeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\weapon\\meleeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\items\\equipitems\\armour\\armourbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\armour\\armourbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\items\\equipitems\\armour\\chestplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\armour\\chestplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\items\\equipitems\\armour\\helmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\armour\\helmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\items\\equipitems\\equipitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\equipitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\units\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:units\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\game\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:game\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\utils\\unitfactorydemohardlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\unitfactorydemohardlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\items\\economicitems\\grindstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\economicitems\\grindstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\items\\economicitems\\economicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\economicitems\\economicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\combat\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:combat\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\utils\\dungeonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\dungeonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\combat\\rockpaperscissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:combat\\rockpaperscissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\utils\\difficultylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\difficultylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\dungeon\\dungeonroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:dungeon\\dungeonroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\dungeon\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:dungeon\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\items\\economicitems\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\economicitems\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\units\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:units\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\units\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:units\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\gameprototype\\items\\economicitems\\gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\economicitems\\gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -101,52 +137,253 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MeleeWeapon.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Weapon\\MeleeWeapon.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\Weapon\\MeleeWeapon.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Weapon\\MeleeWeapon.cs",
+              "RelativeToolTip": "Items\\EquipItems\\Weapon\\MeleeWeapon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T11:36:07.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GameLoop.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Game\\GameLoop.cs",
-              "RelativeDocumentMoniker": "Game\\GameLoop.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Game\\GameLoop.cs",
-              "RelativeToolTip": "Game\\GameLoop.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "UnitFactoryDemo.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\UnitFactoryDemo.cs",
+              "RelativeDocumentMoniker": "Utils\\UnitFactoryDemo.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\UnitFactoryDemo.cs",
+              "RelativeToolTip": "Utils\\UnitFactoryDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.003Z"
+              "WhenOpened": "2025-12-25T11:10:39.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitFactoryDemoEasyLevel.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\UnitFactoryDemoEasyLevel.cs",
+              "RelativeDocumentMoniker": "Utils\\UnitFactoryDemoEasyLevel.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\UnitFactoryDemoEasyLevel.cs",
+              "RelativeToolTip": "Utils\\UnitFactoryDemoEasyLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:09:37.508Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Goblin.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Goblin.cs",
-              "RelativeDocumentMoniker": "Units\\Goblin.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Goblin.cs",
-              "RelativeToolTip": "Units\\Goblin.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAwAAACLAAAAAAAAAA==",
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Player.cs",
+              "RelativeDocumentMoniker": "Units\\Player.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Player.cs",
+              "RelativeToolTip": "Units\\Player.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwE0AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.006Z"
+              "WhenOpened": "2025-12-25T11:10:40.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArmourBase.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Armour\\ArmourBase.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\Armour\\ArmourBase.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Armour\\ArmourBase.cs",
+              "RelativeToolTip": "Items\\EquipItems\\Armour\\ArmourBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DungeonBuilderEasyLevel.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\DungeonBuilderEasyLevel.cs",
+              "RelativeDocumentMoniker": "Utils\\DungeonBuilderEasyLevel.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\DungeonBuilderEasyLevel.cs",
+              "RelativeToolTip": "Utils\\DungeonBuilderEasyLevel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T05:31:14.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DungeonBuilderHardLevel.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\DungeonBuilderHardLevel.cs",
+              "RelativeDocumentMoniker": "Utils\\DungeonBuilderHardLevel.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\DungeonBuilderHardLevel.cs",
+              "RelativeToolTip": "Utils\\DungeonBuilderHardLevel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T06:18:17.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "EquipSlot.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\EquipSlot.cs",
+              "RelativeDocumentMoniker": "Utils\\EquipSlot.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\EquipSlot.cs",
+              "RelativeToolTip": "Utils\\EquipSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameConstants.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\GameConstants.cs",
+              "RelativeDocumentMoniker": "Utils\\GameConstants.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\GameConstants.cs",
+              "RelativeToolTip": "Utils\\GameConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeaponBase.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Weapon\\WeaponBase.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\Weapon\\WeaponBase.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Weapon\\WeaponBase.cs",
+              "RelativeToolTip": "Items\\EquipItems\\Weapon\\WeaponBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RangeWeapon.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Weapon\\RangeWeapon.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\Weapon\\RangeWeapon.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Weapon\\RangeWeapon.cs",
+              "RelativeToolTip": "Items\\EquipItems\\Weapon\\RangeWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:48:14.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Chestplate.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Armour\\Chestplate.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\Armour\\Chestplate.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Armour\\Chestplate.cs",
+              "RelativeToolTip": "Items\\EquipItems\\Armour\\Chestplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T16:08:13.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Helmet.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Armour\\Helmet.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\Armour\\Helmet.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Armour\\Helmet.cs",
+              "RelativeToolTip": "Items\\EquipItems\\Armour\\Helmet.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:46:55.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Unit.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Unit.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Unit.cs",
               "RelativeDocumentMoniker": "Units\\Unit.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Unit.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Unit.cs",
               "RelativeToolTip": "Units\\Unit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABtAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T11:10:40.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
+              "Title": "EquipItem.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\EquipItem.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\EquipItem.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\EquipItem.cs",
+              "RelativeToolTip": "Items\\EquipItems\\EquipItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitFactoryDemoHardLevel.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\UnitFactoryDemoHardLevel.cs",
+              "RelativeDocumentMoniker": "Utils\\UnitFactoryDemoHardLevel.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\UnitFactoryDemoHardLevel.cs",
+              "RelativeToolTip": "Utils\\UnitFactoryDemoHardLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:09:49.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameLoop.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Game\\GameLoop.cs",
+              "RelativeDocumentMoniker": "Game\\GameLoop.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Game\\GameLoop.cs",
+              "RelativeToolTip": "Game\\GameLoop.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\Item.cs",
+              "RelativeDocumentMoniker": "Items\\Item.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\Item.cs",
+              "RelativeToolTip": "Items\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Grindstone.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\Grindstone.cs",
+              "RelativeDocumentMoniker": "Items\\EconomicItems\\Grindstone.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\Grindstone.cs",
+              "RelativeToolTip": "Items\\EconomicItems\\Grindstone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "EconomicItem.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\EconomicItem.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\EconomicItem.cs",
               "RelativeDocumentMoniker": "Items\\EconomicItems\\EconomicItem.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\EconomicItem.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\EconomicItem.cs",
               "RelativeToolTip": "Items\\EconomicItems\\EconomicItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,220 +391,135 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DungeonRoom.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Dungeon\\DungeonRoom.cs",
-              "RelativeDocumentMoniker": "Dungeon\\DungeonRoom.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Dungeon\\DungeonRoom.cs",
-              "RelativeToolTip": "Dungeon\\DungeonRoom.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Item.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\Item.cs",
-              "RelativeDocumentMoniker": "Items\\Item.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\Item.cs",
-              "RelativeToolTip": "Items\\Item.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBAAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "CombatManager.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Combat\\CombatManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Combat\\CombatManager.cs",
               "RelativeDocumentMoniker": "Combat\\CombatManager.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Combat\\CombatManager.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Combat\\CombatManager.cs",
               "RelativeToolTip": "Combat\\CombatManager.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T11:10:40.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "DungeonBuilder.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\DungeonBuilder.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\DungeonBuilder.cs",
               "RelativeDocumentMoniker": "Utils\\DungeonBuilder.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\DungeonBuilder.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\DungeonBuilder.cs",
               "RelativeToolTip": "Utils\\DungeonBuilder.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T11:10:39.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameConstants.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\GameConstants.cs",
-              "RelativeDocumentMoniker": "Utils\\GameConstants.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\GameConstants.cs",
-              "RelativeToolTip": "Utils\\GameConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UnitFactoryDemo.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\UnitFactoryDemo.cs",
-              "RelativeDocumentMoniker": "Utils\\UnitFactoryDemo.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\UnitFactoryDemo.cs",
-              "RelativeToolTip": "Utils\\UnitFactoryDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:39.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Armour.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Armour.cs",
-              "RelativeDocumentMoniker": "Items\\EquipItems\\Armour.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Armour.cs",
-              "RelativeToolTip": "Items\\EquipItems\\Armour.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EquipItem.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\EquipItem.cs",
-              "RelativeDocumentMoniker": "Items\\EquipItems\\EquipItem.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\EquipItem.cs",
-              "RelativeToolTip": "Items\\EquipItems\\EquipItem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Player.cs",
-              "RelativeDocumentMoniker": "Units\\Player.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Player.cs",
-              "RelativeToolTip": "Units\\Player.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Direction.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Dungeon\\Direction.cs",
-              "RelativeDocumentMoniker": "Dungeon\\Direction.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Dungeon\\Direction.cs",
-              "RelativeToolTip": "Dungeon\\Direction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:39.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Inventory.cs",
-              "RelativeDocumentMoniker": "Units\\Inventory.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Inventory.cs",
-              "RelativeToolTip": "Units\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HealthPotion.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\HealthPotion.cs",
-              "RelativeDocumentMoniker": "Items\\EconomicItems\\HealthPotion.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\HealthPotion.cs",
-              "RelativeToolTip": "Items\\EconomicItems\\HealthPotion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Gold.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\Gold.cs",
-              "RelativeDocumentMoniker": "Items\\EconomicItems\\Gold.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\Gold.cs",
-              "RelativeToolTip": "Items\\EconomicItems\\Gold.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Weapon.cs",
-              "RelativeDocumentMoniker": "Items\\EquipItems\\Weapon.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EquipItems\\Weapon.cs",
-              "RelativeToolTip": "Items\\EquipItems\\Weapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "RockPaperScissors.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Combat\\RockPaperScissors.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Combat\\RockPaperScissors.cs",
               "RelativeDocumentMoniker": "Combat\\RockPaperScissors.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Combat\\RockPaperScissors.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Combat\\RockPaperScissors.cs",
               "RelativeToolTip": "Combat\\RockPaperScissors.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T11:10:40.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "EquipSlot.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\EquipSlot.cs",
-              "RelativeDocumentMoniker": "Utils\\EquipSlot.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\EquipSlot.cs",
-              "RelativeToolTip": "Utils\\EquipSlot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "DocumentIndex": 23,
+              "Title": "DifficultyLevel.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\DifficultyLevel.cs",
+              "RelativeDocumentMoniker": "Utils\\DifficultyLevel.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Utils\\DifficultyLevel.cs",
+              "RelativeToolTip": "Utils\\DifficultyLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.018Z"
+              "WhenOpened": "2026-01-01T06:13:17.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Grindstone.cs",
-              "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\Grindstone.cs",
-              "RelativeDocumentMoniker": "Items\\EconomicItems\\Grindstone.cs",
-              "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\Grindstone.cs",
-              "RelativeToolTip": "Items\\EconomicItems\\Grindstone.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 25,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Dungeon\\Direction.cs",
+              "RelativeDocumentMoniker": "Dungeon\\Direction.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Dungeon\\Direction.cs",
+              "RelativeToolTip": "Dungeon\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:10:40.028Z"
+              "WhenOpened": "2025-12-25T11:10:39.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DungeonRoom.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Dungeon\\DungeonRoom.cs",
+              "RelativeDocumentMoniker": "Dungeon\\DungeonRoom.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Dungeon\\DungeonRoom.cs",
+              "RelativeToolTip": "Dungeon\\DungeonRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HealthPotion.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\HealthPotion.cs",
+              "RelativeDocumentMoniker": "Items\\EconomicItems\\HealthPotion.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\HealthPotion.cs",
+              "RelativeToolTip": "Items\\EconomicItems\\HealthPotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Inventory.cs",
+              "RelativeDocumentMoniker": "Units\\Inventory.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Inventory.cs",
+              "RelativeToolTip": "Units\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Goblin.cs",
+              "RelativeDocumentMoniker": "Units\\Goblin.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Units\\Goblin.cs",
+              "RelativeToolTip": "Units\\Goblin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Gold.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\Gold.cs",
+              "RelativeDocumentMoniker": "Items\\EconomicItems\\Gold.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\GamePrototype\\Items\\EconomicItems\\Gold.cs",
+              "RelativeToolTip": "Items\\EconomicItems\\Gold.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:10:40.021Z"
             }
           ]
         }
