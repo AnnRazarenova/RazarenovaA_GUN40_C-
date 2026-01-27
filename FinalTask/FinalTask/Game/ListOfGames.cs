@@ -3,6 +3,6 @@
     public enum ListOfGames
     {
         BlackJack = 1,
-        Dice
+        Dice = 2
     }
 }

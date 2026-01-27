@@ -1,0 +1,15 @@
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\bin\Debug\net8.0\FinalTask.exe
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\bin\Debug\net8.0\FinalTask.deps.json
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\bin\Debug\net8.0\FinalTask.runtimeconfig.json
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\bin\Debug\net8.0\FinalTask.dll
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\bin\Debug\net8.0\FinalTask.pdb
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.AssemblyInfoInputs.cache
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.AssemblyInfo.cs
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.csproj.CoreCompileInputs.cache
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.sourcelink.json
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.dll
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\obj\Debug\net8.0\refint\FinalTask.dll
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.pdb
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\obj\Debug\net8.0\FinalTask.genruntimeconfig.cache
+D:\UnityProjects\RazarenovaA_GUN40_C\FinalTask\FinalTask\obj\Debug\net8.0\ref\FinalTask.dll

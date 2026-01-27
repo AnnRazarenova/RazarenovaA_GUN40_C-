@@ -1,10 +1,16 @@
-﻿namespace FinalTask.Game
+﻿using FinalTask.Interface;
+
+namespace FinalTask.Game
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Player!");
+
+            //FileSystemSaveLoadService<PlayerProfile> service = new FileSystemSaveLoadService<PlayerProfile>("Saves"));
+
+
         }
     }
 }
