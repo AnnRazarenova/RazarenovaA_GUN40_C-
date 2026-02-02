@@ -5,7 +5,7 @@
         public delegate void GameResultHandler(string message);
 
         public event GameResultHandler OnWin;
-        public event GameResultHandler Onloose;
+        public event GameResultHandler Onlose;
         public event GameResultHandler OnDraw;
         public CasinoGameBase() 
         {
@@ -14,9 +14,9 @@
 
         public abstract void PlayGame();
 
-        protected void OnWinInvoke(string playerName, int money) => OnWin?.Invoke($"Congratulations! {playerName} win!!! {playerName}'s money = {money}");
-        protected void OnLooseInvoke(string playerName, int money) => Onloose?.Invoke($"Sorry! {playerName} loose!!! {playerName}'s money = {money}");
-        protected void OnDrawInvoke() => OnDraw?.Invoke("Continue game");
+        protected void OnWinInvoke() => OnWin?.Invoke($"Congratulations! You win!!!");
+        protected void OnLoseInvoke() => Onlose?.Invoke($"Sorry! You loose!!!");
+        protected void OnDrawInvoke() => OnDraw?.Invoke("Opa! You have a draw!!!");
 
         protected abstract void FactoryMethod();
 

@@ -6,33 +6,76 @@ namespace FinalTask.BlackJack
     {
         private Queue<Card> _deck;
 
-        private List<Card> _playerCards;
-        private List<Card> _computerCards;
+        private List<Card> _playerCards = new List<Card>();
+        private List<Card> _computerCards = new List<Card>();
 
         private int _playerScore = 0;
         private int _computerScore = 0;
 
         private int _countCards;
 
-        public BlackJackGame(int countCards) => _countCards = countCards;
+        private bool gameEnd = false;
+        public BlackJackGame(int countCards)
+        {
+            if (countCards <= 0)
+                throw new ArgumentException("Wrong cards count");
+
+            _countCards = countCards;
+        }
 
         protected override void FactoryMethod() => _deck = new Queue<Card>(_countCards);
 
         public override void PlayGame()
         {
             //FactoryMethod();
-            //тут тоже что-то надо (кконструктор БлекДжека, иначе в шафл не сделается(кол-ва карт не будет))
+            //тут тоже что-то надо (конструктор БлекДжека, иначе в шафл не сделается(кол-ва карт не будет))
             CreateCards();
 
             GameStart();
 
+            while(gameEnd == false)
+            {
+                CalculateScore();
+
+                CheckWhoWin();
+            }
+            //идёт процесс игры и условия на блекджек и т.п.
+        }
+
+        private void CheckWhoWin()
+        {
+            if (_playerScore == _computerScore && _playerScore < 21)
+            {
+                _playerCards.Add(DrawCard());
+                _computerCards.Add(DrawCard());
+            }
+            else
+                if(_playerScore <= 21 && (_computerScore > 21 || _computerScore < _playerScore))
+            {
+                OnWinInvoke();
+                ShowCards();
+            }
+            else
+                if(_computerScore <= 21 && (_playerScore > 21 || _playerScore < _computerScore))
+            {
+                OnLoseInvoke();
+                ShowCards();
+            }
+            else
+            if(_playerScore >= 21 && _computerScore >= 21)
+            {
+                OnDrawInvoke();
+                ShowCards();
+            }
+        }
+
+        private void CalculateScore()
+        {
             for (int i = 0; i < _playerCards.Count; i++)
             {
                 _playerScore += GetValue(_playerCards[i].Size, _playerScore);
                 _computerScore += GetValue(_computerCards[i].Size, _computerScore);
             }
-
-            //идёт процесс игры и условия на блекджек и т.п.
         }
 
         private void CreateCards()
@@ -100,6 +143,26 @@ namespace FinalTask.BlackJack
 
             _computerCards.Add(DrawCard());
             _computerCards.Add(DrawCard());
+        }
+
+        private void ShowCards()
+        {
+            Console.WriteLine("Player card's:");
+            for(int i = 0; i < _playerCards.Count; i++)
+            {
+                Console.WriteLine($"{_playerCards[i].Size} {_playerCards[i].Suit}");
+            }
+
+            Console.WriteLine("Dealer card's:");
+            for (int i = 0; i < _computerCards.Count; i++)
+            {
+                Console.WriteLine($"{_computerCards[i].Size} {_computerCards[i].Suit}");
+            }
+        }
+
+        private void GameEnds()
+        {
+            
         }
     }
 }

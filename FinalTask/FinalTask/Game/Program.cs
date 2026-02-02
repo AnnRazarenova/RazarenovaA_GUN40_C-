@@ -1,4 +1,4 @@
-﻿using FinalTask.Interface;
+﻿using FinalTask.CasinoFolder;
 
 namespace FinalTask.Game
 {
@@ -6,11 +6,8 @@ namespace FinalTask.Game
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Player!");
-
-            //FileSystemSaveLoadService<PlayerProfile> service = new FileSystemSaveLoadService<PlayerProfile>("Saves"));
-
-
+            Casino casino = new Casino(); 
+            casino.StartGame();
         }
     }
 }

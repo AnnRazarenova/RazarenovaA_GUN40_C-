@@ -40,7 +40,7 @@ namespace GamePrototype.Game
                         _player = UnitFactoryDemoEasyLevel.CreateEasyPlayer(Console.ReadLine());
                         break;
 
-                    case DifficultyLevel:
+                    case DifficultyLevel.Hard:
                         Console.WriteLine($"You selected: {difficulty} mode");
                         _dungeon = DungeonBuilderHardLevel.BuildHardDungeon();
                         Console.WriteLine("Enter your name");

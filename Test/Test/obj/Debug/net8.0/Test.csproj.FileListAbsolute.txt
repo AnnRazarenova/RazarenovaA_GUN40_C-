@@ -1,0 +1,15 @@
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\bin\Debug\net8.0\Test.exe
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\bin\Debug\net8.0\Test.deps.json
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\bin\Debug\net8.0\Test.dll
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\bin\Debug\net8.0\Test.pdb
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\obj\Debug\net8.0\Test.sourcelink.json
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\obj\Debug\net8.0\Test.dll
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\obj\Debug\net8.0\refint\Test.dll
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\obj\Debug\net8.0\Test.pdb
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+D:\UnityProjects\RazarenovaA_GUN40_C\Test\Test\obj\Debug\net8.0\ref\Test.dll
