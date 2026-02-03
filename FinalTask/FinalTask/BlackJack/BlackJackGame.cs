@@ -14,7 +14,7 @@ namespace FinalTask.BlackJack
 
         private int _countCards;
 
-        private bool gameEnd = false;
+        private bool _gameEnd = false;
         public BlackJackGame(int countCards)
         {
             if (countCards <= 0)
@@ -33,7 +33,7 @@ namespace FinalTask.BlackJack
 
             GameStart();
 
-            while(gameEnd == false)
+            while(_gameEnd == false)
             {
                 CalculateScore();
 
@@ -53,28 +53,22 @@ namespace FinalTask.BlackJack
                 if(_playerScore <= 21 && (_computerScore > 21 || _computerScore < _playerScore))
             {
                 OnWinInvoke();
-<<<<<<< HEAD
-=======
                 ShowCards();
->>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
+                _gameEnd = true;
             }
             else
                 if(_computerScore <= 21 && (_playerScore > 21 || _playerScore < _computerScore))
             {
                 OnLoseInvoke();
-<<<<<<< HEAD
-=======
                 ShowCards();
->>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
+                _gameEnd = true;
             }
             else
             if(_playerScore >= 21 && _computerScore >= 21)
             {
                 OnDrawInvoke();
-<<<<<<< HEAD
-=======
                 ShowCards();
->>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
+                _gameEnd = true;
             }
         }
 
@@ -153,8 +147,6 @@ namespace FinalTask.BlackJack
             _computerCards.Add(DrawCard());
             _computerCards.Add(DrawCard());
         }
-<<<<<<< HEAD
-=======
 
         private void ShowCards()
         {
@@ -175,6 +167,5 @@ namespace FinalTask.BlackJack
         {
             
         }
->>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
     }
 }

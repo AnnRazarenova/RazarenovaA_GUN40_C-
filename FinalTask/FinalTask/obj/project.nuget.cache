@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "F7QV8k3GNMM=",
   "success": true,
   "projectFilePath": "D:\\Курсы Unity\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\FinalTask.csproj",
-=======
-  "dgSpecHash": "Lje/027bZDY=",
-  "success": true,
-  "projectFilePath": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\FinalTask.csproj",
->>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
   "expectedPackageFiles": [],
   "logs": []
 }

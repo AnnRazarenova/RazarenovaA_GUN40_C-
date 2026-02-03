@@ -6,7 +6,7 @@ namespace FinalTask.Game
     {
         static void Main(string[] args)
         {
-            Casino casino = new Casino(); 
+            Casino casino = new Casino("Las Vegas"); 
             casino.StartGame();
         }
     }
