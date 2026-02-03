@@ -53,16 +53,28 @@ namespace FinalTask.BlackJack
                 if(_playerScore <= 21 && (_computerScore > 21 || _computerScore < _playerScore))
             {
                 OnWinInvoke();
+<<<<<<< HEAD
+=======
+                ShowCards();
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
             }
             else
                 if(_computerScore <= 21 && (_playerScore > 21 || _playerScore < _computerScore))
             {
                 OnLoseInvoke();
+<<<<<<< HEAD
+=======
+                ShowCards();
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
             }
             else
             if(_playerScore >= 21 && _computerScore >= 21)
             {
                 OnDrawInvoke();
+<<<<<<< HEAD
+=======
+                ShowCards();
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
             }
         }
 
@@ -141,5 +153,28 @@ namespace FinalTask.BlackJack
             _computerCards.Add(DrawCard());
             _computerCards.Add(DrawCard());
         }
+<<<<<<< HEAD
+=======
+
+        private void ShowCards()
+        {
+            Console.WriteLine("Player card's:");
+            for(int i = 0; i < _playerCards.Count; i++)
+            {
+                Console.WriteLine($"{_playerCards[i].Size} {_playerCards[i].Suit}");
+            }
+
+            Console.WriteLine("Dealer card's:");
+            for (int i = 0; i < _computerCards.Count; i++)
+            {
+                Console.WriteLine($"{_computerCards[i].Size} {_computerCards[i].Suit}");
+            }
+        }
+
+        private void GameEnds()
+        {
+            
+        }
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
     }
 }

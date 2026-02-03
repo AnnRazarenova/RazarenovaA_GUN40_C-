@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\FinalTask\\",
   "Documents": [
     {
@@ -61,6 +62,69 @@
     {
       "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\\u043A\u0443\u0440\u0441\u044B unity\\razarenovaa_gun40_c\\finaltask\\finaltask\\game\\listofgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\game\\listofgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\casinofolder\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\casinofolder\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\interface\\filesystemsaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\interface\\filesystemsaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\blackjack\\blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\blackjack\\blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\game\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\game\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\casinofolder\\igame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\casinofolder\\igame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\diceg\\dicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\diceg\\dicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\blackjack\\cardsizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\blackjack\\cardsizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\blackjack\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\blackjack\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\game\\listofgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\game\\listofgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\player\\playerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\player\\playerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\interface\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\interface\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\diceg\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\diceg\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\diceg\\exceptions\\wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\diceg\\exceptions\\wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|d:\\unityprojects\\razarenovaa_gun40_c\\finaltask\\finaltask\\blackjack\\cardsuits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF08A4-0047-4450-85A5-247CE208947C}|FinalTask\\FinalTask.csproj|solutionrelative:finaltask\\blackjack\\cardsuits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
     }
   ],
   "DocumentGroupContainers": [
@@ -70,16 +134,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+=======
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Game\\Program.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Game\\Program.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Game\\Program.cs",
+              "RelativeToolTip": "FinalTask\\Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:51.216Z"
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "PlayerProfile.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Player\\PlayerProfile.cs",
               "RelativeDocumentMoniker": "FinalTask\\Player\\PlayerProfile.cs",
               "ToolTip": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Player\\PlayerProfile.cs",
@@ -137,10 +218,20 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T08:53:39.616Z",
               "EditorCaption": ""
+=======
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Player\\PlayerProfile.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Player\\PlayerProfile.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Player\\PlayerProfile.cs",
+              "RelativeToolTip": "FinalTask\\Player\\PlayerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:54.094Z"
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< HEAD
               "Title": "CasinoGameBase.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Game\\CasinoGameBase.cs",
               "RelativeDocumentMoniker": "FinalTask\\Game\\CasinoGameBase.cs",
@@ -175,11 +266,34 @@
               "ViewState": "AgIAAC4AAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T13:38:22.923Z",
+=======
+              "Title": "IGame.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\CasinoFolder\\IGame.cs",
+              "RelativeDocumentMoniker": "FinalTask\\CasinoFolder\\IGame.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\CasinoFolder\\IGame.cs",
+              "RelativeToolTip": "FinalTask\\CasinoFolder\\IGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:39.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Casino.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\CasinoFolder\\Casino.cs",
+              "RelativeDocumentMoniker": "FinalTask\\CasinoFolder\\Casino.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\CasinoFolder\\Casino.cs",
+              "RelativeToolTip": "FinalTask\\CasinoFolder\\Casino.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAwGIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:38.448Z",
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
               "Title": "BlackJackGame.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\BlackJack\\BlackJackGame.cs",
               "RelativeDocumentMoniker": "FinalTask\\BlackJack\\BlackJackGame.cs",
@@ -189,10 +303,57 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T12:02:53.039Z",
               "EditorCaption": ""
+=======
+              "Title": "CasinoGameBase.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Game\\CasinoGameBase.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Game\\CasinoGameBase.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Game\\CasinoGameBase.cs",
+              "RelativeToolTip": "FinalTask\\Game\\CasinoGameBase.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:49.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlackJackGame.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\BlackJack\\BlackJackGame.cs",
+              "RelativeDocumentMoniker": "FinalTask\\BlackJack\\BlackJackGame.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\BlackJack\\BlackJackGame.cs",
+              "RelativeToolTip": "FinalTask\\BlackJack\\BlackJackGame.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:33.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiceGame.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\DiceG\\DiceGame.cs",
+              "RelativeDocumentMoniker": "FinalTask\\DiceG\\DiceGame.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\DiceG\\DiceGame.cs",
+              "RelativeToolTip": "FinalTask\\DiceG\\DiceGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:43.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISaveLoadService.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Interface\\ISaveLoadService.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Interface\\ISaveLoadService.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Interface\\ISaveLoadService.cs",
+              "RelativeToolTip": "FinalTask\\Interface\\ISaveLoadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:53.282Z"
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "DiceGame.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Dice\\DiceGame.cs",
               "RelativeDocumentMoniker": "FinalTask\\Dice\\DiceGame.cs",
@@ -201,10 +362,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T12:03:12.43Z",
+=======
+              "Title": "FileSystemSaveLoadService.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Interface\\FileSystemSaveLoadService.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Interface\\FileSystemSaveLoadService.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Interface\\FileSystemSaveLoadService.cs",
+              "RelativeToolTip": "FinalTask\\Interface\\FileSystemSaveLoadService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:52.438Z",
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 13,
               "Title": "WrongDiceNumberException.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Dice\\Exceptions\\WrongDiceNumberException.cs",
@@ -214,10 +386,34 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T14:21:20.294Z"
+=======
+              "DocumentIndex": 12,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\DiceG\\Dice.cs",
+              "RelativeDocumentMoniker": "FinalTask\\DiceG\\Dice.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\DiceG\\Dice.cs",
+              "RelativeToolTip": "FinalTask\\DiceG\\Dice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:42.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WrongDiceNumberException.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\DiceG\\Exceptions\\WrongDiceNumberException.cs",
+              "RelativeDocumentMoniker": "FinalTask\\DiceG\\Exceptions\\WrongDiceNumberException.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\DiceG\\Exceptions\\WrongDiceNumberException.cs",
+              "RelativeToolTip": "FinalTask\\DiceG\\Exceptions\\WrongDiceNumberException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:41.687Z"
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+<<<<<<< HEAD
               "Title": "ListOfGames.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Game\\ListOfGames.cs",
               "RelativeDocumentMoniker": "FinalTask\\Game\\ListOfGames.cs",
@@ -239,10 +435,33 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T09:28:30.221Z",
               "EditorCaption": ""
+=======
+              "Title": "CardSuits.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\BlackJack\\CardSuits.cs",
+              "RelativeDocumentMoniker": "FinalTask\\BlackJack\\CardSuits.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\BlackJack\\CardSuits.cs",
+              "RelativeToolTip": "FinalTask\\BlackJack\\CardSuits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:35.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardSizes.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\BlackJack\\CardSizes.cs",
+              "RelativeDocumentMoniker": "FinalTask\\BlackJack\\CardSizes.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\BlackJack\\CardSizes.cs",
+              "RelativeToolTip": "FinalTask\\BlackJack\\CardSizes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:34.758Z"
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+<<<<<<< HEAD
               "Title": "CardSizes.cs",
               "DocumentMoniker": "D:\\\u041A\u0443\u0440\u0441\u044B Unity\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\BlackJack\\CardSizes.cs",
               "RelativeDocumentMoniker": "FinalTask\\BlackJack\\CardSizes.cs",
@@ -265,6 +484,28 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T11:43:11.385Z",
               "EditorCaption": ""
+=======
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\BlackJack\\Card.cs",
+              "RelativeDocumentMoniker": "FinalTask\\BlackJack\\Card.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\BlackJack\\Card.cs",
+              "RelativeToolTip": "FinalTask\\BlackJack\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:31.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListOfGames.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Game\\ListOfGames.cs",
+              "RelativeDocumentMoniker": "FinalTask\\Game\\ListOfGames.cs",
+              "ToolTip": "D:\\UnityProjects\\RazarenovaA_GUN40_C\\FinalTask\\FinalTask\\Game\\ListOfGames.cs",
+              "RelativeToolTip": "FinalTask\\Game\\ListOfGames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:40:50.591Z"
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
             }
           ]
         }

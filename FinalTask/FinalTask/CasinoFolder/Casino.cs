@@ -17,6 +17,7 @@ namespace FinalTask.CasinoFolder
         private const int MAX_DICE_NUMBER = 6;
 
         private PlayerProfile player;
+<<<<<<< HEAD
 
         private CasinoGameBase chosenGame;
         private int Bank { get; set; }
@@ -26,11 +27,29 @@ namespace FinalTask.CasinoFolder
         public Casino() 
         {
             
+=======
+        private int playerBet;
+
+        private CasinoGameBase chosenGame;
+        private int CasinoBank { get; set; } = 100000;
+
+        private string CasinoName { get; }
+
+        private FileSystemSaveLoadService<PlayerProfile> service;
+
+        public Casino(string name) 
+        {
+            CasinoName = name;
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
         }
 
         public void StartGame()
         {
+<<<<<<< HEAD
             Console.WriteLine("WELCOME TO THE CASINO!");
+=======
+            Console.WriteLine($"WELCOME TO THE CASINO {CasinoName}!");
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
 
             service = new FileSystemSaveLoadService<PlayerProfile>(FILE_PATH);
 
@@ -83,6 +102,22 @@ namespace FinalTask.CasinoFolder
             }
         }
 
+<<<<<<< HEAD
+=======
+        private void PlayerPlaceBet()
+        {
+            Console.WriteLine("Place your bet:");
+
+            if(int.TryParse(Console.ReadLine(), out var bet))
+            {
+                if (bet > player.Bank)
+                    throw new ArgumentOutOfRangeException("Your bet should be lower then your bank");
+                
+                playerBet = bet;
+            }
+        }
+
+>>>>>>> dba59b2ade47fc1184febb03d8735c76b5410250
         private void SubscribeToGameEvents()
         {
             if (chosenGame == null) return;
