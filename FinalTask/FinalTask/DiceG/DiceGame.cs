@@ -14,10 +14,15 @@ namespace FinalTask.DiceG
         private int _minValue;
         private int _maxValue;
 
-        private bool _gameEnd = false;
-
         public DiceGame(int diceCount, int minValue, int maxValue) 
         {
+            if (diceCount <= 0)
+                throw new ArgumentException("Dices count must be greater than 0");
+            if (minValue <= 0)
+                throw new ArgumentException("Min value must be greater than 0");
+            if (maxValue <= 0)
+                throw new ArgumentException("Max value must be greater than 0");
+
             _diceCount = diceCount;
             _minValue = minValue;
             _maxValue = maxValue;
@@ -25,7 +30,6 @@ namespace FinalTask.DiceG
 
         public override void PlayGame()
         {
-            //FactoryMethod();
             CreateDices();
 
             CalculateScore();
@@ -63,27 +67,44 @@ namespace FinalTask.DiceG
             {
                 OnWinInvoke();
                 ShowDices();
-                _gameEnd = true;
             }
             else
             if (_playerScore < _computerScore)
             {
                 OnLoseInvoke();
                 ShowDices();
-                _gameEnd = true;
             }
             else
             if (_playerScore == _computerScore)
             {
                 OnDrawInvoke();
                 ShowDices();
-                _gameEnd = true;
             }
         }
 
         private void ShowDices()
         {
+            Console.WriteLine("Player's dices:");
+            for (int i = 0; i < _playerDices.Count; i++)
+            {
+                Console.WriteLine($"{_playerDices[i].Number}");
+            }
 
+            Console.WriteLine();
+
+            Console.WriteLine($"Player's score: {_playerScore}");
+
+            Console.WriteLine();
+
+            Console.WriteLine("Dealer's dices:");
+            for (int i = 0; i < _computerDices.Count; i++)
+            {
+                Console.WriteLine($"{_computerDices[i].Number}");
+            }
+
+            Console.WriteLine();
+            
+            Console.WriteLine($"Dealer's score: {_computerScore}");
         }
     }
 }

@@ -27,8 +27,6 @@ namespace FinalTask.BlackJack
 
         public override void PlayGame()
         {
-            //FactoryMethod();
-            //тут тоже что-то надо (конструктор БлекДжека, иначе в шафл не сделается(кол-ва карт не будет))
             CreateCards();
 
             GameStart();
@@ -39,7 +37,6 @@ namespace FinalTask.BlackJack
 
                 CheckWhoWin();
             }
-            //идёт процесс игры и условия на блекджек и т.п.
         }
 
         private void CheckWhoWin()
@@ -130,7 +127,6 @@ namespace FinalTask.BlackJack
 
         private Card DrawCard()
         {
-            //проверка на пустоту в дэк
             if (_deck == null || _deck.Count == 0)
             {
                 throw new InvalidOperationException("Deck is empty");
@@ -150,22 +146,29 @@ namespace FinalTask.BlackJack
 
         private void ShowCards()
         {
-            Console.WriteLine("Player card's:");
+            Console.WriteLine();
+
+            Console.WriteLine("Player's cards:");
             for(int i = 0; i < _playerCards.Count; i++)
             {
                 Console.WriteLine($"{_playerCards[i].Size} {_playerCards[i].Suit}");
             }
+            
+            Console.WriteLine();
 
-            Console.WriteLine("Dealer card's:");
+            Console.WriteLine($"Player's score: {_playerScore}");
+
+            Console.WriteLine();
+
+            Console.WriteLine("Dealer's cards:");
             for (int i = 0; i < _computerCards.Count; i++)
             {
                 Console.WriteLine($"{_computerCards[i].Size} {_computerCards[i].Suit}");
             }
-        }
-
-        private void GameEnds()
-        {
             
+            Console.WriteLine();
+
+            Console.WriteLine($"Dealer's score: {_computerScore}");
         }
     }
 }

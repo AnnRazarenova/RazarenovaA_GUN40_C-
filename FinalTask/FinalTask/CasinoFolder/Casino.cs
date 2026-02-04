@@ -16,78 +16,89 @@ namespace FinalTask.CasinoFolder
         private const int MIN_DICE_NUMBER = 1;
         private const int MAX_DICE_NUMBER = 6;
 
-        private PlayerProfile player;
-        private int playerBet;
+        private const int MAX_PLAYER_BANK = 10000;
 
-        private CasinoGameBase chosenGame;
-        private int CasinoBank { get; set; } = 100000;
+        private PlayerProfile _player;
+        private int _playerBet;
 
-        private string CasinoName { get; }
+        private CasinoGameBase _chosenGame;
+        //private int _casinoBank { get; set; } = 100000;
 
-        private FileSystemSaveLoadService<PlayerProfile> service;
+        private FileSystemSaveLoadService<PlayerProfile> _service;
 
-        public Casino(string name) 
+        public Casino() 
         {
-            CasinoName = name;
+
         }
 
         public void StartGame()
         {
-            Console.WriteLine($"WELCOME TO THE CASINO {CasinoName}!");
+            Console.WriteLine($"WELCOME TO THE CASINO!");
 
-            service = new FileSystemSaveLoadService<PlayerProfile>(FILE_PATH);
+            Console.WriteLine();
+
+            _service = new FileSystemSaveLoadService<PlayerProfile>(FILE_PATH);
 
             CheckProfile();
 
-            Console.WriteLine($"Your bank is: {player.Bank}");
-
-            Console.WriteLine($"Choose your game: " +
-                $"{ListOfGames.BlackJack} - {(int)ListOfGames.BlackJack}, " +
-                $"{ListOfGames.Dice} - {(int)ListOfGames.Dice}");
+            Console.WriteLine($"Your bank is: {_player.Bank}");
+            Console.WriteLine();
 
             CreateGame();
+
+            Console.WriteLine();
 
             SubscribeToGameEvents();
 
             PlayerPlaceBet();
 
-            chosenGame.PlayGame();
-                //сам процесс казино
-                //выбор игры, вызов нужного конструктора, и вызов метода плейгейм
+            Console.WriteLine();
 
+            _chosenGame.PlayGame();
+                    
+            UnSubscribeToGameEvents();
+
+            EndGame();
         }
 
         private void CheckProfile()
         {
-            if (service.PlayerHasProfile(FILE_NAME))
+            if (_service.PlayerHasProfile(FILE_NAME))
             {
-                PlayerProfile profileData = service.LoadData(FILE_NAME);
+                PlayerProfile profileData = _service.LoadData(FILE_NAME);
 
-                player = new PlayerProfile(profileData.Name, profileData.Bank);
+                _player = new PlayerProfile(profileData.Name, profileData.Bank);
 
-                Console.WriteLine($"Welcome back {player.Name}");
+                Console.WriteLine($"Welcome back {_player.Name}");
             }
             else
             {
                 Console.WriteLine("Write your name:");
-                player = new PlayerProfile(Console.ReadLine(), 10000);
+                _player = new PlayerProfile(Console.ReadLine(), MAX_PLAYER_BANK);
             }
         }
 
         private void CreateGame()
         {
-            if (Enum.TryParse<ListOfGames>(Console.ReadLine(), out var game))
+            do
             {
-                switch (game)
+                Console.WriteLine($"Choose your game: " +
+                $"{ListOfGames.BlackJack} - {(int)ListOfGames.BlackJack}, " +
+                $"{ListOfGames.Dice} - {(int)ListOfGames.Dice}");
+
+                if (Enum.TryParse<ListOfGames>(Console.ReadLine(), out var game))
                 {
-                    case ListOfGames.BlackJack:
-                        chosenGame = new BlackJackGame(COUNT_CARDS_FOR_BLACKJACK);
-                        break;
-                    case ListOfGames.Dice:
-                        chosenGame = new DiceGame(COUNT_DICES_FOR_DICE, MIN_DICE_NUMBER, MAX_DICE_NUMBER);
-                        break;
+                    switch (game)
+                    {
+                        case ListOfGames.BlackJack:
+                            _chosenGame = new BlackJackGame(COUNT_CARDS_FOR_BLACKJACK);
+                            return;
+                        case ListOfGames.Dice:
+                            _chosenGame = new DiceGame(COUNT_DICES_FOR_DICE, MIN_DICE_NUMBER, MAX_DICE_NUMBER);
+                            return;
+                    }
                 }
-            }
+            } while (true);
         }
 
         private void PlayerPlaceBet()
@@ -96,50 +107,78 @@ namespace FinalTask.CasinoFolder
 
             if(int.TryParse(Console.ReadLine(), out var bet))
             {
-                if (bet > player.Bank)
+                if (bet > _player.Bank)
                     throw new ArgumentOutOfRangeException("Your bet should be lower then your bank");
                 
-                playerBet = bet;
+                _playerBet = bet;
             }
         }
 
         private void SubscribeToGameEvents()
         {
-            if (chosenGame == null) return;
+            if (_chosenGame == null) 
+                return;
 
-            chosenGame.OnWin += HandleWin;
-            chosenGame.Onlose += HandleLose;  // Обратите внимание на опечатку: "Onloose" (две 'o')
-            chosenGame.OnDraw += HandleDraw;
+            _chosenGame.OnWin += HandleWin;
+            _chosenGame.Onlose += HandleLose;
+            _chosenGame.OnDraw += HandleDraw;
+        }
+
+        private void UnSubscribeToGameEvents()
+        {
+            if (_chosenGame == null) 
+                return;
+
+            _chosenGame.OnWin -= HandleWin;
+            _chosenGame.Onlose -= HandleLose;
+            _chosenGame.OnDraw -= HandleDraw;
         }
 
         private void HandleWin(string message)
         {
             Console.WriteLine(message);
 
-            player.Bank += playerBet;
+            Console.WriteLine();
 
-            service.SaveData(player, FILE_NAME);
+            _player.Bank += _playerBet;
+
+            CheckPlayerBank();
         }
 
         private void HandleLose(string message)
         {
             Console.WriteLine(message);
 
-            player.Bank -= playerBet;
+            Console.WriteLine();
 
-            service.SaveData(player, FILE_NAME);
+            _player.Bank -= _playerBet;
+
+            CheckPlayerBank();
         }
 
         private void HandleDraw(string message)
         {
             Console.WriteLine(message);
-
-            service.SaveData(player, FILE_NAME);
         }
 
-        private void CheckCasinoBank()
+        private void CheckPlayerBank()
         {
+            if(_player.Bank > MAX_PLAYER_BANK)
+            {
+                _player.Bank = MAX_PLAYER_BANK;
+                Console.WriteLine("You have ruined the casino and a new one will be built in its place.");
+            }
+            else
+            if(_player.Bank < 0)
+            {
+                _player.Bank = MAX_PLAYER_BANK;
+                Console.WriteLine("No money? Kicked!");
+            }
+        }
 
+        private void EndGame()
+        {
+            _service.SaveData(_player, FILE_NAME);
         }
     }
 }
