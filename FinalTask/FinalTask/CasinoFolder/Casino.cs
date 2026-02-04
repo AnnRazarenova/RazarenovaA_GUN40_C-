@@ -55,7 +55,9 @@ namespace FinalTask.CasinoFolder
             Console.WriteLine();
 
             _chosenGame.PlayGame();
-                    
+
+            Console.WriteLine($"GoodBye {_player.Name}!");
+
             UnSubscribeToGameEvents();
 
             EndGame();
